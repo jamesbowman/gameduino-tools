@@ -1,4 +1,2 @@
 gameduino-tools
 ===============
-
-gameduino2
